@@ -250,6 +250,21 @@ function App() {
   useEffect(() => {
     getData();
   }, [blockchain.account]);
+  
+  const [loading, setLoading] = useState(true);
+
+  useEffect (() => {
+    setLoading(true)
+    setTimeout(() => {
+    setLoading(false)
+    }, 5000)
+  },[])
+
+if (loading) {
+
+  return (
+    <Circularalgoo path="/home" onCLick={()=> loading}/>
+  )}
 
 function OpenTelegram() {
   window.open('https://t.me/burguercash', '_blank');
