@@ -1,6 +1,6 @@
-﻿# Welcome to Burguer Cash
+# Welcome to Burguer Cash
 
-![](https://github.com/SantiiRepair/Champions-Cash/blob/main/logo.png)
+![](https://github.com/SantiiRepair/Burguer-Cash/blob/main/logo.png)
 
 All the code in these repos was created and explained by Champions Cash on the main GitHub.
 
@@ -126,3 +126,4 @@ npm run build
 Now you can host the contents of the build folder on a server.
 
 That's it! you're done.
+
