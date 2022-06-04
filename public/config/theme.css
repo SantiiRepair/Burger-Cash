@@ -1,0 +1,23 @@
+:root {
+  --primary: #7a2800; /*#7a0000*/
+  --primary-text: #fff;
+  --secondary: #f08c2b;
+  --secondary-text: #000000;
+  --accent: rgba(122, 40, 0, 0.5);
+  --accent-text: #ffffff;
+  --all-buttons: #ff7e00; /*#f08c2b*/
+}
+
+input {
+ border: 0;
+ border-radius: 30px;
+ width: 180px;
+ height: 40px;
+ font-weight: bold;
+ font-size: 2em;
+ text-align: center;
+ font-family: unset;
+ outline: 4px solid;
+ outline-color: black;
+ background-color: #fff;
+}

@@ -1,0 +1,25 @@
+{
+  "CONTRACT_ADDRESS": "",
+  "SCAN_LINK": "",
+  "NETWORK": {
+    "NAME": "Binance Smart Chain",
+    "SYMBOL": "BNB",
+    "ID": 1
+  },
+  "NFT_NAME": "Champions Cash",
+  "AUDIT": "https://github.com/SantiiRepair/Champions-Cash",
+  "SYMBOL": "CPC",
+  "MAX_SUPPLY": 2.78,
+  "CONTRACT_OWNABLE": "43 BNB",
+  "WALLET_FUNDING": "8.67 BNB",
+  "REWARDS_CLAIM": 0.8,
+  "DAILY_RETURN": "11%",
+  "APR": "4015%",
+  "DEV_FEE": "3%",
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.075,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
