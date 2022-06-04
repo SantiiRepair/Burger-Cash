@@ -21,3 +21,22 @@ input {
  outline-color: black;
  background-color: #fff;
 }
+
+.divprincipal {
+height: 100vh;
+position: relative;
+background-color: rgb(21, 21, 21);
+}
+
+.divsegundario {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.loader {
+  padding: 50%;
+}
