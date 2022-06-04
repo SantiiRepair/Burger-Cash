@@ -2,7 +2,7 @@
 
 ![](https://github.com/SantiiRepair/Burguer-Cash/blob/main/logo.png)
 
-All the code in these repos was created and explained by Champions Cash on the main GitHub.
+All the code in these repos was created and explained by Burguer Cash on the main GitHub.
 
 To find out more please visit:
 
