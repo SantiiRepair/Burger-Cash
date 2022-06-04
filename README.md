@@ -16,7 +16,7 @@ To find out more please visit:
 
 # Burguer Cash | Mine BNB 🔥
 
-![](https://github.com/SantiiRepair/Burguer-Cash/blob/main/banner.png)
+![](https://github.com/SantiiRepair/Burguer-Cash/blob/main/banner.PNG)
 
 This repo provides a nice and easy way for linking an existing smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.
 
