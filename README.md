@@ -1,6 +1,6 @@
-# Welcome to Burguer Cash
+# Welcome to Burger Cash
 
-![](https://github.com/SantiiRepair/Burguer-Cash/blob/main/logo.png)
+![](https://github.com/SantiiRepair/Burger-Cash/blob/main/logo.png)
 
 All the code in these repos was created and explained by Burguer Cash on the main GitHub.
 
@@ -8,13 +8,13 @@ To find out more please visit:
 
 [👄 Discord](https://discord.com/invite/qh6MWhMJDN)
 
-[💬 Telegram](https://t.me/burguercash)
+[💬 Telegram](https://t.me/burgercash)
 
 [🐦 Twitter](https://twitter.com/burguercash)
 
 [ℹ️ Website](https://burguercash.com)
 
-# Burguer Cash | Mine BNB 🔥
+# Burger Cash | Mine BNB 🔥
 
 ![](https://github.com/SantiiRepair/Burguer-Cash/blob/main/banner.PNG)
 
