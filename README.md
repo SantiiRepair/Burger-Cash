@@ -6,8 +6,6 @@ All the code in these repos was created and explained by Burguer Cash on the mai
 
 To find out more please visit:
 
-[👄 Discord](https://discord.com/invite/qh6MWhMJDN)
-
 [💬 Telegram](https://t.me/burgercash)
 
 [🐦 Twitter](https://twitter.com/burguercash)
